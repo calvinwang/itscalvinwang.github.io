@@ -13,8 +13,8 @@ picture: assets/images/itsmecalvin.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: false
-resume-url: calvin_wang_resumé_12_29_17.pdf
+resume-external: true
+resume-url: https://drive.google.com/file/d/1XfulBkvVodYlv2E__mJG1otDCGinZpns/view?usp=sharing
 
 url: https://itscalvinwang.github.io
 # your url: http://USERNAME.github.io
