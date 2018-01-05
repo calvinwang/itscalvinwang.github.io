@@ -1,6 +1,6 @@
 # main text of home
 name: Calvin Wang
-bio: UC Berkeley Computer Science and Economics 2020. I enjoy baseball, working out, maps, the New York Times Crossword, Shanghainese cuisine, and anything related to technology or finance.
+bio: I enjoy baseball, working out, maps, the New York Times Crossword, Shanghainese cuisine, and anything related to technology or finance.
 
 # twitter summary info
 description: A blog featuring my random musings and whatnot.
@@ -14,7 +14,7 @@ picture: assets/images/itsmecalvin.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/calvin_wang_resumé_12_29_17
+resume-url: assets/calvin_wang_resumé_12_29_17.pdf
 
 url: https://itscalvinwang.github.io
 # your url: http://USERNAME.github.io
@@ -30,19 +30,19 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: disqus_MbtdlnKBGs # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/calvin.wang.35
+facebook: calvin.wang.35
 # twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/calvin-wang-4b2527134/
+linkedin: calvin-wang-4b2527134/
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/itscalvinwang
+github: itscalvinwang
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
