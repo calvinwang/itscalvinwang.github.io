@@ -18,7 +18,7 @@ my thoughts on the world around me.
 <ul class="skill-list">
 	<li>HTML5, CSS, JavaScript</li>
 	<li>React</li>
-	<li>Python</li>
+	<li>Python - Django</li>
 	<li>Java</li>
 	<li>C</li>
 	<li>SQL - MongoDB</li>
